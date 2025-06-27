@@ -1,4 +1,4 @@
 [template]
-ignore = [ 
+exclude = [ 
     "ui/assets/surrealism.png",
 ]
