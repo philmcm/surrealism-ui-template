@@ -1,0 +1,4 @@
+[template]
+ignore = [ 
+    "ui/assets/surrealism.png",
+]
